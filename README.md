@@ -1,5 +1,7 @@
 # DJ Mix Ground Truth Extractor
 
+**!!! The evaluation dataset is available on the following link: <https://1drv.ms/f/s!Al5-09HWyOJ3wlvkkd0ZGte119ov> !!!**
+
 This software allows for reverse engineering actions performed by a DJ in a mix. This software is complementary to my dissertation.
 
 ## Getting Started
